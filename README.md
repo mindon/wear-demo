@@ -7,6 +7,10 @@ Android Wear SDK Demo
 <http://developer.android.com/wear/>
 
 
+Setting proxy for gradle
+<http://www.gradle.org/docs/current/userguide/build_environment.html>
+
+
 to Build:
 
 
