@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mindon Wearable Demo</string>
+    <string name="step_title">Step %1$d of %2$d</string>
+    <string name="action_full_message">Full action demo message</string>
+    <string name="action_reply_message">Reply action demo message</string>
+</resources>

@@ -1,0 +1,74 @@
+{list:[
+{
+name: "wechat",
+title: "WeChat",
+summary: "The new way to connect - http:\\\\wechat.com",
+src: "wechat.png",
+"step-title": "Features %1$d / %2$d",
+steps: [
+{title: "Live Chat"},
+{title: "Video/Audio Call"},
+{title: "Emoticons & Stickers"},
+{title: "Moments"},
+{title: "Group Chat"},
+{title: "Shake"},
+{title: "Look Around"},
+{title: "Drift Bottle"},
+{title: "QR Code"},
+{title: "Chat History Backup"},
+{title: "Facebook Connect"}
+]
+}
+,{
+name: "b",
+title: "Spring",
+summary: "http:\\\\wechat.com",
+src: "b.jpg",
+"action-full": "Reload",
+"action-full-message": "Hello World, Android Wear Reload! \nhttp:\\\\wechat.com"
+}
+,{
+name: "d",
+title: "Morning",
+summary: "http:\\\\mindon.github.io",
+src: "d.jpg",
+"action-reply": "Reply",
+"action-reply-message": "Hello World, Android Wear Reply! \nhttp:\\\\mindon.github.io"
+}
+,{
+name: "ingress",
+title: "Ingress",
+summary: "The Game",
+src: "ingress.png"
+}
+,{
+name: "enlightened",
+title: "Ingress",
+summary: "The Enlightened",
+src: "ingr-enlightened.png"
+}
+,{
+name: "resistance",
+title: "Ingress",
+summary: "The Resistance",
+src: "ingr-resistance.png"
+}
+,{
+name: "apple",
+title: "Mac",
+summary: "The computer that changed everything",
+src: "mac.png"
+}
+,{
+name: "atm",
+title: "ATM: Any Touch Moments",
+summary: "一台提取灵感的ATM",
+src: "atm.png"
+}
+,{
+name: "ability",
+title: "Ability Model",
+summary: "能力模型",
+src: "ability.png"
+}
+]}
