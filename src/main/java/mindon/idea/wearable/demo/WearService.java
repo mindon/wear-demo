@@ -107,10 +107,13 @@ public class WearService extends Service {
         NotificationCompat.Builder builder = new NotificationCompat.Builder(this);
 
         if (bundle.containsKey("src")) {
+            NotificationCompat.BigPictureStyle style = new NotificationCompat.BigPictureStyle();
+
             Bitmap image = Bitmap.createScaledBitmap(
                     AssetUtils.loadBitmapAsset(this, bundle.getString("src")),
 						_IMAGE_WIDTH, _IMAGE_HEIGHT, false);
-            builder.setLargeIcon(image);
+            style.bigPicture(image);
+			builder.setStyle(style);
         }
         builder.setContentTitle(bundle.getString("title"));
 		if(bundle.containsKey("summary")) {
